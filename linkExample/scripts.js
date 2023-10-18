@@ -1,3 +1,5 @@
+// Site by discord: profkrzys //
+
 const textElement1 = document.getElementById("text-animation-1");
 const words1 = ["Login", "Pay", "Register"];
 let wordIndex1 = 0;
@@ -69,3 +71,5 @@ function doSomething() {
   console.log("%cDont paste anything here. It can be dangerous!", "color: blue;");
 }
 setInterval(doSomething, 5000);
+
+// Site by discord: profkrzys //
